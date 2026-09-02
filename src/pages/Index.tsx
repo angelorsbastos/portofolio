@@ -1,7 +1,7 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/HeroSection";
 import Journey from "@/components/JourneySection";
-import ChatWidget from "@/components/ChatWidget";
+
 import { useLang } from "@/lib/LanguageContext";
 import About from "@/components/AboutSection";
 import Experience from "@/components/ExperienceSection";
@@ -28,7 +28,7 @@ const Index = () => {
       <Football />
       <Contact />
       <Footer />
-      <ChatWidget language={lang} />
+
     </>
   );
 };

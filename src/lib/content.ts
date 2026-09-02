@@ -11,7 +11,7 @@ export const content = {
     },
     hero: {
       name: "Ângelo Bastos",
-      roles: ["MSc CS:AI Student", "AI Automation", "Web Developer", "Digital Products Creator"],
+      roles: ["MSc CS:AI Student", "AI Automation", "AI Engineer", "Digital Products Creator"],
       bio: "MSc Computer Science: AI student at Leiden University LIACS, with a passion for building digital products and exploring how artificial intelligence can shape our future. Blending technical skill with creative thinking, I strive to build solutions that matter.",
       cta1: "View Projects",
       cta2: "Download CV",
@@ -194,7 +194,7 @@ export const content = {
     },
     hero: {
       name: "Ângelo Bastos",
-      roles: ["Estudante MSc IA", "Automatização de IA", "Desenvolvedor Web", "Criador de Produtos Digitais"],
+      roles: ["Estudante MSc IA", "Automatização de IA", "Engenheiro de IA", "Criador de Produtos Digitais"],
       bio: "Estudante MSc CS:IA na Universidade de Leiden, com paixão por construir produtos digitais, desenvolvimento web e explorar como a inteligência artificial pode moldar o nosso futuro. Combinando competência técnica com pensamento criativo, tento construir soluções que importam.",
       cta1: "Ver Projetos",
       cta2: "Descarregar CV",
